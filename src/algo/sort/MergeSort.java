@@ -1,4 +1,4 @@
-package algo.divideconquer;
+package algo.sort;
 
 import java.util.Arrays;
 
